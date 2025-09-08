@@ -1,4 +1,4 @@
-// Jenkinsfile Bukhary Ikhwan
+// Jenkinsfile Ts. Bukhary Ikhwan
 pipeline {
     agent any
     stages {
